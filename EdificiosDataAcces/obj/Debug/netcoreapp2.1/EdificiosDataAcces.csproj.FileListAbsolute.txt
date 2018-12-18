@@ -1,0 +1,6 @@
+C:\Users\L_Z0K\Desktop\AppNetCoreWebApiDAE2\EdificiosDataAcces\bin\Debug\netcoreapp2.1\EdificiosDataAcces.deps.json
+C:\Users\L_Z0K\Desktop\AppNetCoreWebApiDAE2\EdificiosDataAcces\bin\Debug\netcoreapp2.1\EdificiosDataAcces.dll
+C:\Users\L_Z0K\Desktop\AppNetCoreWebApiDAE2\EdificiosDataAcces\obj\Debug\netcoreapp2.1\EdificiosDataAcces.csproj.CoreCompileInputs.cache
+C:\Users\L_Z0K\Desktop\AppNetCoreWebApiDAE2\EdificiosDataAcces\obj\Debug\netcoreapp2.1\EdificiosDataAcces.AssemblyInfoInputs.cache
+C:\Users\L_Z0K\Desktop\AppNetCoreWebApiDAE2\EdificiosDataAcces\obj\Debug\netcoreapp2.1\EdificiosDataAcces.AssemblyInfo.cs
+C:\Users\L_Z0K\Desktop\AppNetCoreWebApiDAE2\EdificiosDataAcces\obj\Debug\netcoreapp2.1\EdificiosDataAcces.csprojAssemblyReference.cache
